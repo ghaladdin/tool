@@ -1,0 +1,6 @@
+# robots.txt
+User-agent: *
+Disallow: /admin/
+Disallow: /cgi-bin/
+
+Sitemap: https://beautify.myblog.com/sitemap.xml
